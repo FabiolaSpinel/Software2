@@ -1,0 +1,43 @@
+// Place all the styles related to the StaticPage controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+body{
+
+}
+
+.title{
+	text-align: center;
+	font-size: 6em;
+}
+
+.container{
+    text-align: center;
+    width: 36%;
+    margin: 0 auto;
+}
+
+.tag-style{
+	font-size: 2em;
+    text-decoration: none;
+    padding: 1.2em;
+    background-color: peachpuff;
+}
+
+.tag-style a{
+	text-decoration: none;
+	font-family: Courier New;
+}
+
+.tag-style a:hover{
+	text-decoration: none;
+	font-family: Courier New;
+	background-color: white;
+}
+
+
+.image{
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top:2em;
+}
